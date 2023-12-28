@@ -2,5 +2,11 @@
 # These violent codes have horrendous outputs.
 
   - Student by day and freelance developer by night.
-  - Cross platform enthusiast.  
-  - Not as active as I used to be here, cause recently shifted my entire Azure and GitHub(Including hidden and private projects) to AWS
+  - Backend Oriented.
+  - Tech Stack:
+    - Go
+    - Java
+    - Redis
+    - Postgres
+    - AWS: S3, Dynamodb, Lambda, EC2
+    - Node.js
